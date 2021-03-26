@@ -8,12 +8,10 @@ main{
     width: 600px;
     height: fit-content;
     box-shadow: 10px 10px #B39200;
-    margin: auto;
 }
 div{
     background-color: white;
     padding: 10px;
-    margin: auto;
     box-shadow: 10px 10px #B39200;
     border-radius: 10px;
 }
