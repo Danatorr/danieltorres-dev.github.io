@@ -15,5 +15,5 @@ div{
     padding: 10px;
     margin: auto;
     box-shadow: 10px 10px #B39200;
-    border: 10px;
+    border-radius: 10px;
 }
