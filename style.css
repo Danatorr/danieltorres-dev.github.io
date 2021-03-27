@@ -1,5 +1,8 @@
 @charset "utf-8"
-;body{
+;*/{
+    background-attachment: fixed;
+}
+body{
     background-color: #1919FF;
 }
 main{
