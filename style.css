@@ -13,3 +13,11 @@ main{
     height: fit-content;
     box-shadow: 10px 10px #B39200;
 }
+.Trabalhos{
+    padding:10px;
+    border-radius: 10px;
+    background-color: #fff;
+    width: 600px;
+    height: fit-content;
+    box-shadow: 10px 10px #B39200;
+}
