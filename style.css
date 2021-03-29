@@ -1,5 +1,6 @@
 @charset "utf-8"
-;*/{
+;*{
+    font-family: sans-serif;
     background-attachment: fixed;
 }
 body{
@@ -16,7 +17,7 @@ main{
 .Trabalhos{
     position: relative;
     left: 650px;
-    bottom: 430px;
+    bottom: 448px;
     padding:10px;
     border-radius: 10px;
     background-color: #fff;
