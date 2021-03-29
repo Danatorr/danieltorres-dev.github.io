@@ -16,6 +16,7 @@ main{
 .Trabalhos{
     position: relative;
     left: 500px;
+    bottom: 500px;
     padding:10px;
     border-radius: 10px;
     background-color: #fff;
